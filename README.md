@@ -1,5 +1,7 @@
 # Jorge Garcia - Personal static site
-# theblondemonkey.github.io
+# Project name: theblondemonkey.github.io
+# TODO: alias-->theblondemonkey.com
+# TODO: blog migrate
 # (University of Nevada, Las Vegas)
 
 
